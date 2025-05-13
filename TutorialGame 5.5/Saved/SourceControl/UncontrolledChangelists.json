@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Blueprints/BP_target.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/AF/QG9URMOHKJ71A6UXBP9GC2.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q4/A074ODOU79Z1VRSMFNXBX3.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6C/BDEX7MOFW6MBEM46LD5DXF.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame 5.5/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"/Users/cadechaplin/CS/sanctorum/TutorialGame 5.5/Content/FirstPerson/Blueprints/WBP_UI.uasset"
+			]
+		}
+	]
+}
