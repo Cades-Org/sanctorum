@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/NewBlendSpace1D.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Garbage/NewAnimBlueprint.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Garbage/NewBlendSpace1D.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Garbage/shitmodel.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Garbage/shitmodel_PhysicsAsset.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Garbage/shitmodel_Skeleton.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"/Users/cadechaplin/CS/sanctorum/ThirdPersonTesting/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}

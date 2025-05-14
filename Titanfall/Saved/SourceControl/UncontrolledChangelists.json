@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/B7/MPMTHY9PEL4PDB6G34FV5R.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PN/CTWXEEE94EKHGLLMCHMIG0.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/45/ZX7R6Z7B2VDVSG9WKCGEB0.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/95/8XMCWPMA22M81JIKAKS4KI.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GO/WL8CZW9GTPXC5BGCA0UHV2.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/P8/SAWG7CIQ5O1Q7U8AJBZF2T.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AZ/71B7GX9XQCNXBCG2Z6L9PN.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Q2/6TO9PL7UQ1SFSNOMP1QIB1.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/V5/ARM5ZRL4QIHSTJ7VQOJQYU.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TH/A3PHGMZ2RH7IWESCU12G9B.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BR/DHXKC4IP2LN9AKMRDSLIDI.uasset",
+				"/Users/cadechaplin/CS/sanctorum/Titanfall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QV/XBYNKAJV8HLHVB8N1AA92W.uasset"
+			]
+		}
+	]
+}
