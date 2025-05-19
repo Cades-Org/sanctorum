@@ -3,12 +3,5 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
-# Ignore the DownloadedContent folder
-**Titanfall/Content/MilitaryWeapSilver/
-**Titanfall/Content/MilitaryWeapDark/
-**Titanfall/Content/DZ_Trees/
-**Titanfall/Content/EuropeanHornbeam/
-**Titanfall/Content/DownloadedContent/
-**Titanfall/Content/Light_Foliage/
-Titanfall/Content/StarterContent/
+
 
