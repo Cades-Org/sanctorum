@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Ignore the DownloadedContent folder
+**Titanfall/Content/MilitaryWeapSilver/
+**Titanfall/Content/MilitaryWeapDark/
+**Titanfall/Content/DZ_Trees/
+**Titanfall/Content/EuropeanHornbeam/
+**Titanfall/Content/DownloadedContent/
+**Titanfall/Content/Light_Foliage/
+Titanfall/Content/StarterContent/
